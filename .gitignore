@@ -1,0 +1,25 @@
+# Byte-compiled / caches
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+anaconda_projects/
+
+# Datasets, satellite imagery & checkpoints
+data/
+dataset/
+weights/
+outputs/
+*.pth
+*.pt
+*.tif
+*.tiff
+*.zip
+
+# IDE
+.vscode/
+.idea/
